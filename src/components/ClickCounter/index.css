@@ -1,0 +1,52 @@
+/* Write your CSS here */
+.container{
+/* margin: 20px; */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+ background-color:#f1f5f8;
+ background-size: cover;
+ height: 100vh;
+ padding:40px;
+
+
+  
+    
+    
+  
+   
+}
+.counter_card{
+
+margin: 30px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+
+.heading{
+    color: #2d3a35;
+    text-align: center;
+    font-size: 34px;
+    font-weight: 500;
+}
+span{
+    color: #c20a72;
+    margin: 5px;
+}
+
+p{
+    font-size: 14px;
+
+}
+button{
+    height: 35px;
+    width: 90px;
+    border-radius: 5px;
+    border-width: 0;
+    background-color: #007bff;
+    color: white;
+}
